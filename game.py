@@ -1,5 +1,6 @@
 import pygame
 import os
+from .. import enemies.Scorpion
 
 class Game:
     def __init__(self):
